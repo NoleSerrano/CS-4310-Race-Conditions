@@ -15,3 +15,5 @@
   * Use the command `java RaceConditionsPart2` to run the program with semaphores
 ## Race Condition
 To reproduce the race condition, run `RaceConditions.class` in a terminal or load `RaceConditions.java` into an IDE and run it that way.
+## Project Description
+![image](https://user-images.githubusercontent.com/43283288/145481657-855c1fd3-9db0-45ef-b67d-1754133caae3.png)
